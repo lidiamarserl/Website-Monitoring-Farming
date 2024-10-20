@@ -1,0 +1,10 @@
+{
+  "Dashboard": 1,
+  "Anomaly": 4,
+  "Prediksi":5,
+  "Valve":6,
+  "Dataset": 2,
+  "Control": {
+    "List": 3
+  }
+}
